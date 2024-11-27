@@ -1,0 +1,106 @@
+#a1 {
+    border: 6px solid green;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+/* margin 1 */
+
+#a1 {
+    margin: 15px;
+}
+
+/* margin 2 */
+#a2 {
+    border: 6px solid blue;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/* margin 3 */
+
+#a3 {
+    background-color: cadetblue;
+    border: 6px solid palevioletred;
+    text-align: center;
+    margin: 10px 20px 10px 20px;
+}
+
+/* margin 4 */
+
+#a4 {
+    background-color: goldenrod;
+    border: 5px solid purple;
+    text-align: center;
+    margin: 15px 25px;
+}
+
+
+
+
+
+#b1 {
+    background-color: floralwhite;
+    border: 2px solid forestgreen;
+    text-align: center;
+}
+
+
+/* padding 1 */
+#b1 {
+    padding: 20px;
+}
+
+
+/* padding 2 */
+
+#b2 {
+    background-color: floralwhite;
+    border: 2px solid darkolivegreen;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+/* padding 3 */
+
+#b3 {
+    background-color: floralwhite;
+    border: 2px solid aqua;
+    text-align: center;
+    padding: 25px 30px 25px 30px;
+}
+
+
+
+
+#b4 {
+    background-color: floralwhite;
+    border: 2px solid lawngreen;
+    text-align: center;
+}
+
+
+/* padding 4 */
+#b4 {
+    padding: 15px 30px;
+}
+
+p {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 50px;
+}
